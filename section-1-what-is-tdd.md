@@ -5,7 +5,9 @@ TDD, which stands for test-driven development is a software development [methodo
 ## What are the main concepts?
 
 #### Unit Tests
-A 'unit test' is the fundamental concept of TDD.
+The 'unit test' is the fundamental concept of TDD.  They are methods that prove that a 'unit under test' returns a particular value and/or creates a certain set of side effects (i.e. setting object properties, throwing expections) when exercised under various conditions (i.e. with different parameter sets, timings).
+
+Unit tests should be small.  The can only be so when the methods that they are testing are themselves small.  If your unit tests are large, it is probably an indication that your methods being tested are doing more than they should.  A good rule of thumb is *a unit test should test one method which does one thing.*
 
 #### Test Framework  
 Nearly all modern languages have testing frameworks which allow developers 
