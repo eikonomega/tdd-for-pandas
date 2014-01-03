@@ -4,8 +4,11 @@ TDD, which stands for test-driven development is a software development [methodo
 
 ## What are the main concepts?
 
-1. Test Framework
-  Nearly,
+1. Test Framework  
+Nearly all modern languages have testing frameworks which allow developers 
+to easily write unit tests for their code. Not surprisingly, Python has 
+a built in framework - called UnitTest, as well as a variety of open-source 
+modules available.
 
 Red/Green
 Practical TDD
