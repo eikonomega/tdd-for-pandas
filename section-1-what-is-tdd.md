@@ -10,19 +10,15 @@ The 'unit test' is the fundamental concept of TDD.  They are methods that prove 
 Unit tests should be small.  The can only be so when the methods that they are testing are themselves small.  If your unit tests are large, it is probably an indication that your methods being tested are doing more than they should.  A good rule of thumb is *a unit test should test one method which does one thing.*
 
 #### Test Suites
+A group of unit tests which exercise the functionality of a conceptual unit 
+(think class/module).  As a program grows, it can develop multiple suites 
+in accordance with its various functionalities.
 
 #### Test Framework  
 Nearly all modern languages have testing frameworks which allow developers 
-to easily write unit tests for their code. Not surprisingly, Python has 
+to easily write unit tests and run for their code. Not surprisingly, Python has 
 a built in framework - called UnitTest, as well as a variety of open-source 
 modules available.
 
-Red/Green
-Practical TDD
-No code without tests.
-Testing Private Methods
-Test Frameworks
-SMALL TESTS
-
-## Resources
+## Further Reading
 [Wikipedia's entry](http://en.wikipedia.org/wiki/Test-driven_development) on TDD.
