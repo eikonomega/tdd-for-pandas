@@ -1,4 +1,4 @@
-tdd-for-pandas
-==============
+# TDD for Pandas
+An Introduction to Test Driven Development for Pandas Everywhere.
 
-Introduction to TDD for Pandas Everywhere
+
