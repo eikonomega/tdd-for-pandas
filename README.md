@@ -1,11 +1,11 @@
 # TDD for Pandas
-An Introduction to Test Driven Development for Pandas Everywhere.
+An introduction to test-driven development for practical pandas everywhere.
 
 ## Contents
-[What is TDD?](section-1--what-is-tdd.md)  
-[TDD Workflows](section-2--tdd-workflows.md)  
-[Python Test Frameworks](section-3--python-test-frameworks.md)  
-[UnitTest Framework](section-4--unittest-framework.md)  
-[Nose Framework](section-5--nose-framework.md)  
+[Lesson 1: What is TDD?](section-1--what-is-tdd.md)  
+[Lesson 2: TDD Workflows](section-2--tdd-workflows.md)  
+[Lesson 3: Python Test Frameworks](section-3--python-test-frameworks.md)  
+[Lesson 4: UnitTest Framework](section-4--unittest-framework.md)  
+[Lesson 5: Nose Framework](section-5--nose-framework.md)  
 
 
