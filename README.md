@@ -1,5 +1,5 @@
-# TDD for Pandas
-An introduction to test-driven development for practical pandas everywhere.
+# Test-Driven Development for Pandas
+Welcome panda, to the pool of sacred tears.  First we will train, then we will eat.
 
 ## Contents
 [Lesson 1: What is TDD?](section-1--what-is-tdd.md)  
